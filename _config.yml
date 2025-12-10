@@ -13,7 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-baseurl: "/academic-homepage" # the subpath of your site, e.g. /blog
+
+baseurl: "" # 改为空，因为你的仓库名就是 XianpoNi.github.io
 
 # Build settings
 markdown: kramdown
@@ -32,15 +33,27 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-# timezone: Asia/Shanghai
+timezone: Europe/London
 
 collections:
   - publications
   - news
   - showcase
+
+# Personal Information
 title: "Xianpo Ni"
-description: "PhD Student at University of Edinburgh"
+description: "PhD Student in Electrical and Electronic Engineering at University of Edinburgh"
 repository: "XianpoNi/XianpoNi.github.io"
+
+# Contact & Social
+email: "xianpo.ni@ed.ac.uk"  # 改成你的实际邮箱
 googlescholar: "https://scholar.google.com/citations?user=9e55syYAAAAJ"
-email: "your.email@ed.ac.uk"
 github: "XianpoNi"
+linkedin: ""  # 如果有 LinkedIn，填写用户名
+orcid: ""  # 如果有 ORCID，填写 ID
+researchgate: ""  # 如果有 ResearchGate，填写链接
+
+# Academic Information
+institution: "University of Edinburgh"
+department: "School of Engineering"
+location: "Edinburgh, Scotland, UK"
