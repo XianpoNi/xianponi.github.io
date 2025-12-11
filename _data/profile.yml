@@ -51,13 +51,13 @@ experience:
     Teaching Assistant
   date: Sep. 2023 - Present
 - name: Delta Electronics
-  logo: /assets/images/badges/Delta_logo.png
+  # logo: /assets/images/badges/Delta_logo.png
   position: >-
     Senior Electronic Design Engineer <br/>
     Power supply design for Oracle servers (EMI, EFF, PFC and LLC optimization)
   date: Nov. 2021 - Oct. 2022
 - name: Dahua Technology
-  logo: /assets/images/badges/Dahua_logo.png
+  # logo: /assets/images/badges/Dahua_logo.png
   position: >-
     Technical Support Engineer (Internship) <br/>
     Network surveillance systems and server construction
