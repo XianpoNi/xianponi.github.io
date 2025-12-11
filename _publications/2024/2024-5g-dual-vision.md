@@ -8,7 +8,7 @@ abstract: >-
   A novel 5G-enabled architecture for multimodal hearing aids that combines dual vision and speech enhancement capabilities to improve user experience in complex acoustic environments.
 cover:          /assets/images/covers/cover_5g_hearing.jpg
 authors:
-- Xianpo Ni*
+- Xianpo Ni
 - Yang Cen
 - Tushar Tyagi
 - Godwin Enemali

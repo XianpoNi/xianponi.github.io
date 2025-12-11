@@ -8,7 +8,7 @@ abstract: >-
   An FPGA-based implementation of LSTM neural networks for real-time speech enhancement in hearing aids, achieving low latency and energy efficiency for next-generation devices.
 cover:          /assets/images/covers/cover_fpga_lstm.jpg
 authors:
-- Xianpo Ni*
+- Xianpo Ni
 - Usman Anwar
 - Dongkun Xu
 - Tughrul Arslan

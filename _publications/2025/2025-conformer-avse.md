@@ -8,7 +8,7 @@ abstract: >-
   A transformer-based audio-visual speech enhancement model using Conformer architecture specifically designed for hearing aid applications.
 cover:          /assets/images/covers/cover_conformer.jpg
 authors:
-- Dongkun Xu*
+- Dongkun Xu
 - Xianpo Ni
 - Usman Anwar
 - Kia Dashtipour

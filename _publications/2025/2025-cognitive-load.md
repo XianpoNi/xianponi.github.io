@@ -8,7 +8,7 @@ abstract: >-
   A cognitive load-driven approach for audio-visual speech enhancement using neuro-fuzzy inference models implemented on the OpenMHA platform for hearing aid applications.
 cover:          /assets/images/covers/cover_cognitive.jpg
 authors:
-- Usman Anwar*
+- Usman Anwar
 - Xianpo Ni
 - Adewale Adetomi
 - Kia Dashtipour
