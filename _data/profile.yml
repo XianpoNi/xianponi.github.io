@@ -40,7 +40,8 @@ education:
   logo: /assets/images/badges/Sheffield_logo.png
   position: >-
     MSc in Electrical and Electronic Engineering <br/>
-    <em>Distinction</em>
+    <em>Distinction</em> <br/>
+    Thesis: GaN-based Power Circuit Design and Implementation
   date: Sep. 2020 - Dec. 2021
 
 experience:
@@ -55,7 +56,7 @@ experience:
   position: >-
     Senior Electronic Design Engineer <br/>
     Power supply design for Oracle servers (EMI, EFF, PFC and LLC optimization)
-  date: Nov. 2021 - Oct. 2022
+  date: Nov. 2021 - Nov. 2022
 - name: Dahua Technology
   logo: /assets/images/badges/Dahua_logo.png
   position: >-
