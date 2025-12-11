@@ -1,6 +1,6 @@
 ---
 title:          "Towards Low-Energy Low-Latency Multimodal Open Master Hearing Aid"
-date:           2024-01-01 00:01:00 +0800
+date:           2024-03-01 00:01:00 +0800
 selected:       false
 pub:            "Proc. AVSEC 2024"
 pub_date:       "2024"
