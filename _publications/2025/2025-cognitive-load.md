@@ -1,9 +1,9 @@
 ---
 title:          "Cognitive Load Driven Audio-Visual Speech Enhancement Using a Neuro-Fuzzy Inference Model and OpenMHA Platform"
-date:           2023-09-01 00:01:00 +0800
+date:           2025-09-01 00:01:00 +0800
 selected:       false
 pub:            "Conference/Journal TBD"
-pub_date:       "2023"
+pub_date:       "2025"
 abstract: >-
   A cognitive load-driven approach for audio-visual speech enhancement using neuro-fuzzy inference models implemented on the OpenMHA platform for hearing aid applications.
 cover:          /assets/images/covers/cover_cognitive.jpg
